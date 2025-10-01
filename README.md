@@ -1,4 +1,4 @@
-# Walmart Sales Data Pipeline & Analytics
+# Walmart Sales Data Pipeline & Analysis
 
 ![walmartecomm](https://github.com/user-attachments/assets/e5eb8ff3-6cd0-430a-984c-66dc6fc56206)
 
