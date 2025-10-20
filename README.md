@@ -34,4 +34,19 @@ Average weekly sales are higher during holiday weeks compared to non-holiday per
 # Insights:
 The correlation heatmap shows that Weekly Sales have almost no correlation with CPI (-0.02) or Unemployment (-0.02), suggesting that short-term sales performance at Walmart is largely unaffected by macroeconomic indicators. The moderate negative correlation between CPI and Unemployment (-0.20) aligns with general economic trends, where higher unemployment often coincides with lower inflationary pressure. Overall, the results imply that Walmart’s sales remain stable across varying economic conditions, likely due to its role as a retailer of essential goods and its broad consumer base.
 
+# Project Insights
+This is just a very small project I learn on DataCamp to practice pipeline development. The project offered several practical insights into retail data analytics:
+- Data Flow and Automation: Building an end-to-end data pipeline highlighted the importance of automating data extraction, transformation, and loading processes to maintain accurate and timely insights for business decisions.
+- Sales Trends and Patterns: Analyzing Walmart sales data revealed clear seasonal and monthly trends, which are crucial for inventory management, demand forecasting, and strategic planning.
+- Importance of Data Aggregation: Aggregating large transactional datasets into meaningful metrics like average sales per month or category can uncover actionable patterns that inform pricing, promotions, and supply chain strategies.
+
+# Challenges I Faced
+This project presented some learning challenges:
+- Handling Large Datasets: Working with Walmart’s multi-year sales data required efficient data manipulation and cleaning to avoid performance bottlenecks.
+- Data Quality Issues: Missing values, inconsistencies across stores or months, and outliers required careful preprocessing to ensure accurate analysis.
+
+# Conclusion
+This Walmart data pipeline project was highly educational, providing hands-on experience in data cleaning, aggregation, visualization, and automation. It strengthened my understanding of how retail businesses leverage data pipelines to monitor performance and inform strategic decisions. The project underscores the value of building reliable pipelines and clear analyses, laying a strong foundation for future work in data analytics and business intelligence.
+
+
 
