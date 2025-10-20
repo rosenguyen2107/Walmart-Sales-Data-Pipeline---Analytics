@@ -19,18 +19,21 @@ The project demonstrates skills in ETL pipeline design, SQL, data wrangling, and
 # 1. Seasonal and monthly sales patterns
 
 <img width="868" height="470" alt="Unknown" src="https://github.com/user-attachments/assets/758525d3-62b3-45de-a908-85c87f017b4b" />
+
 # Insights:
 Sales clearly peak in November and December, showing strong holiday effects. There’s a noticeable dip around mid-year (May–July), followed by a rebound early in the year. Overall, the pattern confirms consistent seasonality, with Q4 driving the highest revenue for Walmart.
 
 # 2. The impact of holidays on sales
 
 <img width="558" height="388" alt="Unknown-2" src="https://github.com/user-attachments/assets/bfb37f96-f6ec-4084-8d83-a9d64082d723" />
+
 # Insights:
 Average weekly sales are higher during holiday weeks compared to non-holiday periods, reflecting the spike in consumer demand for gifts, groceries, and seasonal products. This confirms the strong influence of holidays on Walmart’s revenue performance. However, the difference is moderate rather than extreme, suggesting that Walmart maintains a steady baseline of sales throughout the year, supported by its diverse product offerings and consistent customer demand.
 
 # 3. Relationships between sales, CPI, and unemployment
 
 <img width="524" height="374" alt="Unknown-3" src="https://github.com/user-attachments/assets/53b80154-50d2-4117-8746-4337920424b4" />
+
 # Insights:
 The correlation heatmap shows that Weekly Sales have almost no correlation with CPI (-0.02) or Unemployment (-0.02), suggesting that short-term sales performance at Walmart is largely unaffected by macroeconomic indicators. The moderate negative correlation between CPI and Unemployment (-0.20) aligns with general economic trends, where higher unemployment often coincides with lower inflationary pressure. Overall, the results imply that Walmart’s sales remain stable across varying economic conditions, likely due to its role as a retailer of essential goods and its broad consumer base.
 
